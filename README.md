@@ -1,2 +1,5 @@
-# norsain-iso-systems
-Master repository for Norsain’s ISO system structure. Organizes ISO standards by sector, with folder templates and metadata for compliance, documentation, and digital quality systems.
+# 🧭 Norsain ISO System
+
+Dette repoet gir en overordnet struktur for ISO-standarder organisert etter sektor.
+
+Se `01-ISO-Sector/` for detaljer.
